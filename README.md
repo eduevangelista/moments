@@ -1,4 +1,4 @@
 # Moments
- version 13.1.2.
+Angular version 13.1.2.
 
-## Crud desenvolvido para praticar fundamentos.
+## Crud desenvolvido para praticar fundamentos do Angular
